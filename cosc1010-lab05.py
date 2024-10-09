@@ -1,12 +1,9 @@
 # Connor Fisbeck
 # UWYO COSC 1010
-# Submission Date
+# 10/9/2024
 # Lab 03 
 # Lab Section: 15
-# Sources, people worked with, help given to: 
-# your
-# comments
-# here
+# n/a
 
 max_temps = [
     32, 24, 22, 25, 37, 33, 34, 40, 40, 42,
